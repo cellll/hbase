@@ -13,6 +13,7 @@ Run
 ##### hi
 
 > bin/start-hbase.sh
+
 > bin/hbase-daemon.sh start thrift
 
 
